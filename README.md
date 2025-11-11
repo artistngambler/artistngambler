@@ -1,16 +1,20 @@
-## Hi there 👋
+<h2 align="center">👋 Hi there, I'm Konstantin</h2>
+<p align="center">🎮 Gameplay Programmer 🎮 Love make and play games 🎮</p>
 
-<!--
-**artistngambler/artistngambler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About
+* 3+ years of experience as a **C# programmer**
+* 1.5 years of experience as a **Gameplay programmer**
+* Experience with **Unity**, **ECS**, **DI**
 
-Here are some ideas to get you started:
+### Projects
+* [Moonshards - Idle RPG](https://yandex.ru/games/#app=469022) - 2D Idle RPG with real-time combat
+<a href="https://yandex.ru/games/#app=469022" target="_blank">
+<img src="https://github.com/user-attachments/assets/56aaa9dc-ef83-4f0d-bf57-cf314c2a0cfb" alt="Moonshards - Idle RPG" width=320>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Code
+* [Ability System](https://github.com/artistngambler/AbilitySystem) - small part of the ability system that we use in [Moonshards - Idle RPG](https://yandex.ru/games/#app=469022)
+
+### Contacts
+* E-mail: artistngambler@yandex.com
+* Telegram: @artistngambler
