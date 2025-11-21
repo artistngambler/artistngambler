@@ -21,4 +21,4 @@
 ### Contacts
 * *E-mail:* artistngambler@yandex.com
 * *Telegram:* @artistngambler
-* *CV:* [Konstantin Valerov. Gameplay programmer.pdf](https://github.com/user-attachments/files/23577354/Konstantin.Valerov.Gameplay.programmer.pdf)
+* *CV:* [Konstantin Valerov. Gameplay programmer.pdf](https://github.com/user-attachments/files/23675830/Konstantin.Valerov.Gameplay.programmer.pdf)
